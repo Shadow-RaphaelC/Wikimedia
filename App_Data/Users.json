@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Modérateur",
+    "Email": "admin@app.net",
+    "Password": "S4VzJg+yuLVrtp6gTvyn4ZT5Z3BDVEiqJYgxJWe8Y/I=BkJ2SdJ4hagqUSGplfcYAiynSno=",
+    "Access": 3,
+    "Blocked": false,
+    "Verified": true,
+    "Notify": true,
+    "Avatar": "/App_Assets/Users/5aa8957d-e980-4cac-b915-aaa63d0909f1.jpeg",
+    "Id": 1
+  },
+  {
+    "Name": "Charlot",
+    "Email": "charlot@yopmail.com",
+    "Password": "WrlJ2Wm2NgzA2bjAfyXIheughlqhxwl1Niuv60gVij8=M54D55bnJyGmTUGOmB1gdr1cjxU=",
+    "Access": 1,
+    "Blocked": false,
+    "Verified": true,
+    "Notify": true,
+    "Avatar": "/App_Assets/Users/no_avatar.png",
+    "Id": 2
+  },
+  {
+    "Name": "Raph",
+    "Email": "shadowmax468@gmail.com",
+    "Password": "j8C+I74qfPzDMUJyvEhrzJmCcW81wvvfeXB4Y0ID05o=eXb6BTCNke69I0EWDs7a5l2ol30=",
+    "Access": 2,
+    "Blocked": false,
+    "Verified": true,
+    "Notify": true,
+    "Avatar": "/App_Assets/Users/10e4ac1a-7408-425a-bb66-8ef1ce3b5a0a.png",
+    "Id": 3
+  }
+]
